@@ -3,6 +3,7 @@ name: TestAppLaravel
 environments:
     production:
         database: test-vapor-db
+        cache: test-vapor-redis
         memory: 1024
         cli-memory: 512
         runtime: 'php-8.2:al2'
