@@ -2,4 +2,4 @@
 
 ## Laravel Vapor
 
-Teste de deploy de um projeto Laravel no Vapor.
+Teste de deploy de um projeto Laravel no Laravel Vapor, para estudos.
